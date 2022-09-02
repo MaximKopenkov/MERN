@@ -1,6 +1,6 @@
 {
-  "author": "Maxim Kopenkov",
   "name": "fcc-learn-npm-package-json",
+  "author": "Maxim Kopenkov",
   "dependencies": {
     "express": "^4.14.0"
   },
